@@ -1,0 +1,29 @@
+p {
+  color: red;
+}
+
+/* CLASS SELECTORS */
+.intro {
+  color: blue;
+}
+
+.description {
+  color: green;
+}
+
+.more-destination li {
+  color: green;
+}
+
+.more-destination > li {
+  color: red;
+}
+/* ID SELECTORS */
+
+#heading {
+  color: red;
+}
+
+#first_paragraph {
+  color: red;
+}
